@@ -1,1 +1,1 @@
-Sources/top10milliondomains.csv filer=lfs diff=lfs merge=lfs -text
+Sources/top10milliondomains.csv filter=lfs diff=lfs merge=lfs -text
